@@ -1,5 +1,5 @@
 ### Hi there 👋 Results-driven Full-Stack Developer with hands-on experience in building scalable web applications using React,
-FastAPI, and cloud-based deployment strategies.
+FastAPI, other python libraries and frameworks and cloud-based deployment strategies.
 
 <!--
 **eroldramos/eroldramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
